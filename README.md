@@ -1,12 +1,11 @@
 # Translate.me 0.1.1 - Sketch App Plugin
 
-Translations. Simplified.
+支持翻译：
 
-Translate your Sketch text layers, artboards and pages in over 100 languages with Translate.me plugin. Powered by Google.
-
-Translate.me helps you to save time, understand and communicate across your international team or app.
-
-If you use it and you like it, please consider to make a donation to support its development! 🙏🏼
+* 选中的Layer
+* 选中的Artboard
+* 整个文档
+* 设置百度翻译Api（原插件为试用Google API，在中国大陆不适用）
 
 <a href="https://www.buymeacoffee.com/eddiesigner" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
@@ -66,6 +65,6 @@ The plugin is compatible with Sketch 4+.
 
 ## Contact
 
-If you have any questions or troubles with our product, please feel free to open an issue [here](https://github.com/eddiesigner/sketch-translate-me/issues).
+毫末官网：[https://haomo-tech.com](https://haomo-tech.com)
 
-If you prefer, you can send an email to: [hello@craftbot.io](mailto:hello@craftbot.io)
+有问题请发邮件: [hxg@haomo-studio.com](hxg@haomo-studio.com)
